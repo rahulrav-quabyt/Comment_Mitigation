@@ -1,5 +1,5 @@
 {
-  "homepage": "https://rahulrav-quabyt.github.to/Comment_Mitigation",
+  "homepage": "https://rahulrav-quabyt.github.io/Comment_Mitigation",
   "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -b gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
