@@ -1,0 +1,54 @@
+{
+    "comments": [
+        {
+            "id": 1,
+            "postId": 1,
+            "author": "Alex Chen",
+            "content": "This is fascinating!",
+            "timestamp": "8:01:12 PM",
+            "positive": 1,
+            "negative": 0,
+            "obscene": 0
+        },
+        {
+            "id": 2,
+            "postId": 2,
+            "author": "Lisa Wong",
+            "content": "Fuck ur stupid photo!",
+            "timestamp": "8:37:52 PM",
+            "positive": 0,
+            "negative": 0,
+            "obscene": 1
+        },
+        {
+            "id": "1ed2",
+            "postId": 1,
+            "author": "You",
+            "content": "hey there",
+            "timestamp": "5:44:25 AM",
+            "positive": 1,
+            "negative": 0,
+            "obscene": 0
+        },
+        {
+            "id": "1f96",
+            "postId": 1,
+            "author": "You",
+            "content": "fuck off",
+            "timestamp": "6:33:08 AM",
+            "positive": 0,
+            "negative": 0,
+            "obscene": 1
+        },
+        {
+            "id": "6f40",
+            "postId": 1,
+            "author": "You",
+            "content": "bad painting",
+            "timestamp": "6:37:52 AM",
+            "positive": 0,
+            "negative": 1,
+            "obscene": 0
+        }
+    ]
+}

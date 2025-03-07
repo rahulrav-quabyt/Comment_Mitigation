@@ -5,9 +5,3 @@
     { "path": "./tsconfig.node.json" }
   ]
 }
-{
-  "compilerOptions": {
-    "typeRoots": ["./node_modules/@types"],
-    "types": ["react-router-dom"]
-  }
-}
